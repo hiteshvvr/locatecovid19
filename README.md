@@ -39,11 +39,6 @@ For this \
     medium risk more than 120 mins high risk\
 
     As the address on google maps is not correct, it creats slightly wrong 
-<<<<<<< HEAD
     but concise results, as shown in figure below:\
 
 ![alt text](https://github.com/hiteshvvr/locatecovid19/blob/master/image.png)
-=======
-    but concise results, as shown in figure below:
-![alt text](https://github.com/hiteshvvr/locatecovid19/blob/master/image2.png)
->>>>>>> 507e26364d4a1c32aa1dd4c4a267c7ac192d223e
