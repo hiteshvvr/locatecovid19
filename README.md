@@ -14,8 +14,7 @@ Attempt for locating possible Covid-19 infected people, using location history o
        Location History.json in the subfolder.\
   iv. Rename the file Location History.json to Location_History.json and put in\
       same directory as the script cutdata.py\
-   v. Open file cutdata.py and adjust dates on line no. 55 the format is date,
-      month, year\
+   v. Open file cutdata.py and adjust dates on line no. 16 in Timestamp(yyyy, m, d) the format is year, month, date\
    vi. Save and run python cutdata.py in terminal or as you wish.\
    vii. This will generate the file lochist.json\
    viii. Go to the site https://locationhistoryvisualizer.com/heatmap/ and
