@@ -41,4 +41,4 @@ For this \
     As the address on google maps is not correct, it creats slightly wrong 
     but concise results, as shown in figure below:\
 
-![alt text](https://github.com/hiteshvvr/locatecovid19/blob/master/image.png)
+![alt text](https://github.com/hiteshvvr/locatecovid19/blob/master/image2.png)
